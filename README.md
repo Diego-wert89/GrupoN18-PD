@@ -4,7 +4,7 @@ Proyecto de finalización: Procesamiento de Datos - ISPC 2023 - Grupo N°18
 ![Banner-1](https://github.com/Diego-wert89/GrupoN18-PD/assets/112911957/b110a539-18f1-4bd2-b3f1-6ec102fe6112)
 
 
-###########################################################################################################
+#######################################################################################
 
 ## Integrantes del equipo (orden alfabético):
 
@@ -22,7 +22,7 @@ Proyecto de finalización: Procesamiento de Datos - ISPC 2023 - Grupo N°18
 
 - ### Valdiviezo Melisa
 
-###########################################################################################################
+#######################################################################################
 
 ## Consignas:
 
@@ -38,7 +38,7 @@ Descripción del proyecto: El proyecto consiste en desarrollar un procesamiento 
 4. Visualización de datos: Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos. Todos
 5. Comunicación efectiva de resultados: Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
 
-###########################################################################################################
+#######################################################################################
 
 ## Requisitos del Proyecto:
 
@@ -52,7 +52,7 @@ Descripción del proyecto: El proyecto consiste en desarrollar un procesamiento 
     - Visualización de datos: El proyecto debe incluir técnicas de visualización de datos apropiadas, que permitan transmitir de manera efectiva la información y los resultados obtenidos.
     - Generación de reportes: Se debe generar al menos un reporte que presente los resultados de manera clara y siguiendo buenas prácticas de generación de reportes.
 
-###########################################################################################################
+#######################################################################################
 
 ## Entrega:
 
@@ -60,4 +60,4 @@ Fecha de presentación: 26/06/2023 - 29/06/2023 20:00 Hs
 
 Exposición:  30/06/2023
 
-###########################################################################################################
+#######################################################################################
